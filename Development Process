@@ -3,7 +3,9 @@ a. web version
 b. Desktop app
 c. Mobile app
 
-2. Technology Needed
-a. Language for Back end - Python
+2. Technology Needed (Web version)
+a. Language for Back end - Python(Django)
 b. Front end - 
 c. Domain and Hosting
+
+3. Getting Started
